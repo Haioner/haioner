@@ -1,6 +1,5 @@
 # 💫 About Me:
-👾 About Me<br><br>Hey! I'm a passionate game developer from Pernambuco, Brazil. I've been creating games since 2018, and I've released 20+ games, including some game jam wins. I love learning new things and always have a fresh project in the works.<br><br>
-🕹️ Game Development<br><br>Unity: Working with it since 2018<br>Games Released: 20+<br>Game Jams: Winner of a few<br><br>Currently expanding my knowledge and diving deeper into development.<br><br>
+🕹️ About Me<br>Hey! I'm a passionate game developer from Pernambuco, Brazil. I've been creating games since 2018, and I've released 20+ games, including some game jam wins. I love learning new things and always have a fresh project in the works.<br><br>
 🔍 Passion for Learning<br><br>I’m constantly exploring new concepts in game development and always experimenting with new ideas to bring them to life.
 
 ## 🎨 Portfolio
