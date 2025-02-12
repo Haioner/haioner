@@ -15,3 +15,4 @@ Check out my portfolio to see some of my best projects and get a glimpse of my g
 ![](https://github-readme-stats.vercel.app/api?username=haioner&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haioner&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haioner&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haioner&layout=donut)](https://github.com/haioner/github-readme-stats)
