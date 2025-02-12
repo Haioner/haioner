@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕹️ About Me<br>Hey! I'm a passionate game developer from Pernambuco, Brazil. I've been creating games since 2018, and I've released 20+ games, including some game jam wins. I love learning new things and always have a fresh project in the works.<br>
+🕹️ About Me<br><br>Hey! I'm a passionate game developer from Pernambuco, Brazil. I've been creating games since 2018, and I've released 20+ games, including some game jam wins. I love learning new things and always have a fresh project in the works.<br><br>
 🔍 Passion for Learning<br><br>I’m constantly exploring new concepts in game development and always experimenting with new ideas to bring them to life.
 
 ## 🎨 Portfolio
