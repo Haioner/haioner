@@ -4,7 +4,7 @@
 
 ## 🎨 **Portfolio**
 Check out my portfolio to see some of my best projects and get a glimpse of my game development journey!  
-[**View My Portfolio**](https://haioner.vercel.app/)
+[**View My Portfolio**](https://www.haioner.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvynlee) 
